@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header0,
+.header1,
+.header2,
+.header3,
+.header4,
+.header5,
+.header6,
+.header7 {
+  text-decoration: none;
+  color: #bdbdbd;
+  font-size: 14px;
+}
+
+/* .sidebar-main {
+  background: darkorchid;
+} */
